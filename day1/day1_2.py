@@ -1,5 +1,4 @@
 import math
-#filepath = './day1/input.txt'
 filepath = './day1/input.txt'
 
 a = []
