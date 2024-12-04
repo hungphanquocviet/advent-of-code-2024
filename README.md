@@ -1,3 +1,3 @@
 # Advent of Code 2024
 
-I'm learning Python standard library
+I'm learning Python
